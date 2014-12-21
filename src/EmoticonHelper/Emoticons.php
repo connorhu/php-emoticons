@@ -7,6 +7,8 @@
  * file that was distributed with this source code.
  */
 
+namespace EmoticonHelper;
+
 class Emoticons
 {
     const AERIAL_TRAMWAY = "\xF0\x9F\x9A\xA1";
